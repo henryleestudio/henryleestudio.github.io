@@ -1,0 +1,3 @@
+[submodule "supermarket-express"]
+	path = supermarket-express
+	url = https://github.com/henryleestudio/supermarket-express.git
